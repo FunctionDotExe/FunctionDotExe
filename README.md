@@ -84,7 +84,6 @@
 
 ---
 
-## 🟡 Pacman contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/functiondotexe/functiondotexe/output/pacman-contribution-graph-dark.svg">
