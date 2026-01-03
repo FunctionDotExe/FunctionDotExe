@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [HexVTT](https://github.com/FunctionDotExe/hex-vtt)
 
-- 🌱 I’m currently learning ****React / Vue ecosystems**, **GSAP**, **Tailwind**, **Firebase**, and **ML/Quantum tooling (Qiskit, PennyLane, Cirq)** :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}**
+- 🌱 I’m currently learning ****React / Vue ecosystems**, **GSAP**, **Tailwind**, **Firebase**, and **ML/Quantum tooling (Qiskit, PennyLane, Cirq)** 
 
 - 👯 I’m looking to collaborate on ****Personal Chat Messenger** (React + Firebase)**
 
 - 🤝 I’m looking for help with [**HexVTT** (features, UI polish, realtime sync, tooling)](https://github.com/FunctionDotExe/hex-vtt)
 
-- 👨‍💻 All of my projects are available at [https://functiondotexe.github.io :contentReference[oaicite:6]{index=6}](https://functiondotexe.github.io :contentReference[oaicite:6]{index=6})
-
+- 👨‍💻 All of my projects are available at https://functiondotexe.github.io
+  
 - 💬 Ask me about ****React**, **Vue**, **GSAP**, **Tailwind**, **Firebase**, and building fun web UIs :contentReference[oaicite:4]{index=4}**
 
-- 📫 How to reach me ****Email:** rubenbmaxwell@gmail.com **LinkedIn:** https://linkedin.com/in/ruben-maxwell :contentReference[oaicite:5]{index=5}**
+- 📫 How to reach me ****Email:** rubenbmaxwell@gmail.com **LinkedIn:** https://linkedin.com/in/ruben-maxwell**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qpyBcjRnza1P5QPrBM_90QEyubP_mDFt/view?usp=sharing](https://drive.google.com/file/d/1qpyBcjRnza1P5QPrBM_90QEyubP_mDFt/view?usp=sharing)
 
