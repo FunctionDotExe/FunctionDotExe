@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About me
 
-- 🔭 I’m currently working on **[HexVTT](https://github.com/FunctionDotExe/hex-vtt)**
+- 🔭 I’m currently working on **[ForgeFountain](https://github.com/FunctionDotExe/ForgeFountain)**
 - 🌱 I’m currently learning **React/Vue ecosystems**, **GSAP**, **Tailwind**, **Firebase**, and **ML/Quantum tooling (Qiskit, PennyLane, Cirq)**
 - 👯 I’m looking to collaborate on **Personal Chat Messenger (React + Firebase)**
 - 🤝 I’m looking for help with **[HexVTT (features, UI polish, realtime sync, tooling)](https://github.com/FunctionDotExe/hex-vtt)**
