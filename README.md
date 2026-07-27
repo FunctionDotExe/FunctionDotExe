@@ -1,3 +1,4 @@
+
 <!-- HEADER SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ruben%20Maxwell&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Quantum%20ML%20%7C%20Robotics&descAlignY=61&descAlign=50" alt="Header Banner" />
@@ -17,24 +18,25 @@
 
 ## 🚀 Systems & Architecture
 
-I am a Mathematics & Computer Science undergraduate at the University of Toronto[cite: 1]. My engineering focus lives at the intersection of applied machine learning, event-driven backend systems, and low-level robotics[cite: 1]. I specialize in building out highly interactive UI environments, training computer-vision models, and establishing autonomous AI coding workflows. 
+I am a Mathematics & Computer Science undergraduate at the University of Toronto[cite: 1]. My engineering focus lives at the intersection of applied machine learning, event-driven backend systems, low-level robotics, and custom UI design[cite: 1]. I specialize in building out highly interactive UI environments, training computer-vision models, and establishing autonomous AI coding workflows[cite: 1].
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🛠️ Current Directives</h3>
+      <h3>🛠️ Directives</h3>
       <ul>
-        <li>🔭 <b>Microservices:</b> Engineering real-time, event-driven workflows with RabbitMQ and deploying containerized backends at Fourth Dimension (4D)[cite: 1].</li>
-        <li>🧠 <b>Quantum ML:</b> Applying VQE, QNN, and quantum-kernel methods for simulation pipelines using Qiskit, PennyLane, and Cirq[cite: 1].</li>
-        <li>⚙️ <b>Robotics:</b> Implementing closed-loop motor control and real-time sensor feedback for VEX/Arduino hardware in Embedded C++[cite: 1].</li>
-        <li>🗡️ <b>Game Dev:</b> Applying linear algebra and matrix mathematics to top-down, dark-atmospheric game mechanics and custom rendering.</li>
+        <li>🔭 <b>Microservices:</b> Engineering real-time, event-driven workflows with RabbitMQ and deploying containerized microservices at Fourth Dimension (4D)[cite: 1].</li>
+        <li>🧠 <b>Quantum ML:</b> Benchmarking VQE, QNN, and quantum-kernel methods on medical imaging datasets using Qiskit, PennyLane, and Cirq[cite: 1].</li>
+        <li>⚙️ <b>Embedded Systems:</b> Programming closed-loop motor control and sensor feedback routines in Embedded C++[cite: 1].</li>
+        <li>🗡️ <b>Game Engineering:</b> Applying linear algebra and matrix mathematics to top-down, dark-atmospheric game mechanics and custom rendering.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>📫 Comms Channel</h3>
+      <h3>📫 Comms & Socials</h3>
       <ul>
-        <li>💼 <a href="https://www.linkedin.com/in/ruben-maxwell/">LinkedIn Connection</a></li>
-        <li>📄 <a href="https://rubenm.me">Portfolio / rubenm.me</a>[cite: 1]</li>
+        <li>💼 <a href="https://www.linkedin.com/in/ruben-maxwell/">LinkedIn Profile</a>[cite: 1]</li>
+        <li>🌐 <a href="https://rubenm.me">Portfolio (rubenm.me)</a>[cite: 1]</li>
+        <li>📄 <a href="https://drive.google.com/file/d/1qpyBcjRnza1P5QPrBM_90QEyubP_mDFt/view?usp=sharing">View Resume</a></li>
         <li>📧 <b>rubenbmaxwell@gmail.com</b>[cite: 1]</li>
       </ul>
     </td>
@@ -43,7 +45,29 @@ I am a Mathematics & Computer Science undergraduate at the University of Toronto
 
 ---
 
-## 🧰 The Tech Stack
+## 🤖 Hardware & Embedded Engineering
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ VEX Robotics & Microcontroller Systems</h3>
+      <p>Designed, built, and programmed physical hardware platforms using <b>C++</b>, <b>Arduino</b>, and <b>Raspberry Pi</b>[cite: 1]. Developed closed-loop motor control algorithms, real-time sensor integration pipelines, and both autonomous and driver-controlled operational routines[cite: 1].</p>
+      <ul>
+        <li><b>Control Systems:</b> Closed-loop feedback loops for precise motion control[cite: 1].</li>
+        <li><b>Sensor Integration:</b> Real-time hardware telemetry and state estimation[cite: 1].</li>
+        <li><b>Platform Stack:</b> VEX Hardware, Arduino, Raspberry Pi, Embedded C++[cite: 1].</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi&theme=dark" alt="Hardware Tech Stack" /><br><br>
+      <img src="https://img.shields.io/badge/VEX%20Robotics-E2231A?style=for-the-badge" alt="VEX Robotics" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Technical Arsenal
 
 <div align="center">
   
@@ -69,7 +93,7 @@ I am a Mathematics & Computer Science undergraduate at the University of Toronto
   <img src="https://img.shields.io/badge/PennyLane-000000?style=for-the-badge" alt="PennyLane" />
   <img src="https://img.shields.io/badge/Cirq-1A73E8?style=for-the-badge" alt="Cirq" />
 
-  ### **Systems, Backend & Robotics**
+  ### **Systems, Backend & Databases**
   <img src="https://skillicons.dev/icons?i=cpp,cs,rust,go,python,java&theme=dark" height="40" alt="Languages" />
   <br>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
@@ -77,14 +101,59 @@ I am a Mathematics & Computer Science undergraduate at the University of Toronto
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <br>
-  <img src="https://img.shields.io/badge/VEX%20Robotics-E2231A?style=for-the-badge" alt="VEX" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 
-  ### **Frontend & User Interface**
+  ### **Frontend & UI Animation**
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind&theme=dark" height="40" alt="Frontend Tech" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 
+</div>
+
+---
+
+## 🏆 Featured Repositories & Research
+
+<div align="center">
+  <a href="https://github.com/FunctionDotExe/descent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FunctionDotExe&repo=descent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ForgeFountain Pin" />
+  </a>
+  <a href="https://github.com/FunctionDotExe/hex-vtt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FunctionDotExe&repo=hex-vtt&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HexVTT Pin" />
+  </a>
+</div>
+
+<br>
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🩺 Melanoma Detection CNN</h3>
+      <p><b>Computer Vision Pipeline | URSA Case Competition</b>[cite: 1]</p>
+      <p>Trained GPU-accelerated CNNs on the HAM10000 dataset (10,015 images) for skin cancer classification, achieving ~0.90 AUC and up to 91% validation accuracy[cite: 1]. Audited model fairness across demographic groups with Fairlearn[cite: 1].</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Decyp3r</h3>
+      <p><b>Cross-Platform Microgame Application</b>[cite: 1]</p>
+      <p>Architected a microgame app (iOS/Android/Web) with 6 mini-games, streak tracking, and live Firestore leaderboards[cite: 1]. Maintained 95%+ crash-free sessions with anti-spam score submission[cite: 1].</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆%203x%20Hackathon%20Winner-FFD700?style=for-the-badge&color=222222" alt="Hackathon Winner" />[cite: 1]
+  <img src="https://img.shields.io/badge/🚀%20Top%205%20NASA%20SpaceHacks-0B3D91?style=for-the-badge&color=222222" alt="NASA Spacehacks" />[cite: 1]
+  <img src="https://img.shields.io/badge/⚛️%20Sir%20Isaac%20Newton%20Physics%20(Top%20500)-8A2BE2?style=for-the-badge&color=222222" alt="Physics Exam" />[cite: 1]
 </div>
 
 ---
@@ -118,61 +187,11 @@ I am a Mathematics & Computer Science undergraduate at the University of Toronto
   </picture>
 </div>
 
----
-
-## 🏆 Featured Deployments & Research
-
-<table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🩺 Melanoma Detection CNN</h3>
-      <p><b>Computer Vision Pipeline | URSA Case Competition</b></p>
-      <p>Engineered a GPU-accelerated CNN trained on the HAM10000 dataset (10,015 images) for skin cancer classification, achieving ~0.90 AUC and up to 91% validation accuracy[cite: 1]. Audited model fairness across patient demographic groups utilizing Fairlearn to surface false-negative-rate disparities[cite: 1].</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Decyp3r</h3>
-      <p><b>Cross-Platform Microgame App</b></p>
-      <p>Architected a daily microgame application for iOS, Android, and Web featuring 6 distinct puzzle mechanics, streak tracking, and live Firestore leaderboards[cite: 1]. Maintained 95%+ crash-free sessions while handling transactional, anti-spam score submissions[cite: 1].</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 ForgeFountain</h3>
-      <p><b>Real-Time Market Analyzer</b></p>
-      <p>Built a live market and recipe analyzing engine equipped with robust caching, fallbacks, and retry handling to ensure reliability under strict API rate limits, optimizing manual price-checking workflows[cite: 1].</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/APIs-000000?style=flat-square&logo=json&logoColor=white" alt="APIs" />
-        <img src="https://img.shields.io/badge/Data_Pipelines-4285F4?style=flat-square" alt="Data Pipelines" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚔️ Top-Down Soulslike MVP</h3>
-      <p><b>Custom Game Engine Mechanics</b></p>
-      <p>Developed an interactive combat arena leveraging custom matrix row reductions and vector geometry to drive advanced hitboxes and fluid animations. Inspired by the dark atmospheric visuals and high-difficulty mechanics of Dark Souls and Hollow Knight.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Matrix_Math-00599C?style=flat-square" alt="Math" />
-        <img src="https://img.shields.io/badge/Game_Design-E34F26?style=flat-square" alt="Game Design" />
-      </div>
-    </td>
-  </tr>
-</table>
-
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆%203x%20Hackathon%20Winner-FFD700?style=for-the-badge&color=222222" alt="Hackathon Winner" />
-  <img src="https://img.shields.io/badge/🚀%20Top%205%20NASA%20SpaceHacks-0B3D91?style=for-the-badge&color=222222" alt="NASA Spacehacks" />
-  <img src="https://img.shields.io/badge/⚛️%20Sir%20Isaac%20Newton%20Physics%20(Top%20500)-8A2BE2?style=for-the-badge&color=222222" alt="Physics Exam" />
+  <a href="https://codepen.io/@benmax" target="_blank"><img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CodePen" /></a>
+  <a href="https://kaggle.com/functiondotexe" target="_blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Kaggle" /></a>
+  <a href="https://instagram.com/rubenm._.13" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/@rubenm5841" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" /></a>
 </div>
-
----
