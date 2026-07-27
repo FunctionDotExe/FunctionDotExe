@@ -1,10 +1,10 @@
-
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ruben%20Maxwell&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Quantum%20ML%20%7C%20Robotics&descAlignY=61&descAlign=50" alt="Header Banner" />
-  
+  <h1 align="center"><b><br>⚡ RUBEN MAXWELL ⚡</b></h1>
+  <p align="center"><b>Software Engineer | AI & Quantum ML | Embedded Systems</b></p>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Mathematics+%26+Computer+Science+@+UofT;Architecting+Agentic+AI+%26+RAG+Pipelines;Building+Quantum+ML+Models+(Qiskit/Cirq);Deploying+Containerized+Microservices+(Docker/RabbitMQ);Developing+Embedded+Robotics+(C%2B%2B/Arduino)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Mathematics+%26+Computer+Science+@+UofT;Architecting+Agentic+AI+%26+RAG+Pipelines;Building+Quantum+ML+Models+(Qiskit/Cirq);Deploying+Containerized+Microservices+(Docker/RabbitMQ);Developing+Embedded+Robotics+(C%2B%2B/Arduino)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -112,18 +112,27 @@ I am a Mathematics & Computer Science undergraduate at the University of Toronto
 
 ## 🏆 Featured Repositories & Research
 
-<div align="center">
-  <a href="https://github.com/FunctionDotExe/descent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FunctionDotExe&repo=descent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ForgeFountain Pin" />
-  </a>
-  <a href="https://github.com/FunctionDotExe/hex-vtt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FunctionDotExe&repo=hex-vtt&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HexVTT Pin" />
-  </a>
-</div>
-
-<br>
-
 <table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 <a href="https://github.com/FunctionDotExe/descent">ForgeFountain</a></h3>
+      <p><b>Real-Time Market Opportunity Analyzer</b>[cite: 1]</p>
+      <p>Live market and recipe analyzing engine with caching, fallbacks, and retry handling to optimize manual price checking under strict rate limits[cite: 1].</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/APIs-000000?style=flat-square&logo=json&logoColor=white" alt="APIs" />
+        <img src="https://img.shields.io/badge/Data_Pipelines-4285F4?style=flat-square" alt="Data Pipelines" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎲 <a href="https://github.com/FunctionDotExe/hex-vtt">HexVTT</a></h3>
+      <p><b>Real-Time Virtual Tabletop Engine</b></p>
+      <p>Interactive web application engineered for real-time synchronization, custom UI tooling, and spatial grid rendering.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Realtime_Sync-007ACC?style=flat-square" alt="Sync" />
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🩺 Melanoma Detection CNN</h3>
@@ -161,18 +170,8 @@ I am a Mathematics & Computer Science undergraduate at the University of Toronto
 ## 📊 Deployment Analytics
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=functiondotexe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="github stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=functiondotexe&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="top languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://streak-stats.demolab.com?user=functiondotexe&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=0D1117" height="160" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=functiondotexe&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=functiondotexe&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
 </div>
 
 ---
